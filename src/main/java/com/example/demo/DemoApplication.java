@@ -21,6 +21,7 @@ public class DemoApplication {
 	@PostConstruct
 	public void init() {
 		logger.info("Application Started.......");
+		logger.info("Application Started Again.......");
 		
 	}
 
