@@ -14,7 +14,8 @@ class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		logger.info("Test Case Executing");
-		logger.info("Test Case Executing second trial........");
+		logger.info("Test Case Executing Second trial........");
+		logger.info("Test Case Executing Third trial........");
 		assertEquals(true,true);
 	}
 
